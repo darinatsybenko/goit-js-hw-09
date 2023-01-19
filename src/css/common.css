@@ -39,7 +39,7 @@ img {
 
 .value,
 .label {
-  font-family: cursive;
+  font-family: 'Roboto';
 }
 
 .value {
@@ -52,7 +52,7 @@ img {
 }
 
 button {
-  font-family: cursive;
+  font-family: 'Roboto';
   font-size: 30px;
   cursor: pointer;
 }
